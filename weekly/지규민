@@ -1,0 +1,9 @@
+# Handling keycloak user register event
+
+## Keycloak SPI
+
+keycloak should trigger console user registered api when user registered.
+
+## Console user registerd api
+
+console api should fire user create event for tools backends.
